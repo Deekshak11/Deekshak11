@@ -78,7 +78,7 @@ Most “RAG demos” index a PDF. Flagship retrieval is built for **density**:
 - **600+** swipe/example files · **40+** authors/sources  
 
 Full public narrative: [deekshak.site behind the scenes](https://deekshak.site/#flagship).  
-Corpus **text** stays out of public git (rights hygiene). **Architecture and product** are public.
+**Full RAG vaults are public** under [business-os/knowledge](https://github.com/Deekshak11/business-os/tree/main/knowledge) (Hormozi + Copy OS). Architecture + live product + vaults = complete proof.
 
 ---
 
@@ -123,3 +123,4 @@ Public repos = **portfolio snapshots**. Full operational backups with secrets st
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Deekshak11&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
+
