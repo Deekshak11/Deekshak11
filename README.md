@@ -1,67 +1,122 @@
 # Deekshak SS
 
-**AI Implementation · Multi-agent systems · Production automation**
+**AI Implementation Engineer · Multi-agent systems · Production automation**
 
-I ship systems that turn messy business requests into reliable loops — strategist agents, outbound factories, no-show protection, and multi-step automations. Orchestration and production, not demos that die in a notebook.
+I ship systems that turn messy business requests into reliable loops: strategist agents with dense RAG, outbound factories, no-show protection, and multi-step automations. **Orchestration and production** — not demos that die in a notebook.
 
 | | |
 |---|---|
-| **Portfolio** | [deekshak.site](https://deekshak.site) |
+| **Portfolio (proof)** | [deekshak.site](https://deekshak.site) |
 | **Live product** | [app.deekshak.site](https://app.deekshak.site) — Business OS |
-| **Location** | India · remote |
-| **Open to** | Remote AI implementation / automation engineering roles |
+| **Walkthrough** | [deekshak.site/#flagship](https://deekshak.site/#flagship) |
+| **Location** | Bengaluru, India · open to **remote** |
+| **Target roles** | AI implementation · agent orchestration · automation engineering |
 
 ---
 
-## What I build
+## How hiring managers should read this profile
+
+```text
+1. Open live product     → app.deekshak.site
+2. Watch / scan portfolio → deekshak.site (canvases, case studies, vault depth)
+3. Open pinned repos      → architecture + code + honesty about shadow systems
+4. Interview on the loop  → problem → plan lock → specialists → measure
+```
+
+**Pinned repos** are the portfolio stack. Private repos hold operational backups with secrets — not the hire surface.
+
+---
+
+## Flagship stack
+
+| Repo | What you will see | Proof |
+|------|-------------------|--------|
+| **[business-os](https://github.com/Deekshak11/business-os)** | Multi-agent product: RAG strategist → **plan lock** → copy/build specialists. Dual high-density vaults (Hormozi systems + Copy OS: 112 frameworks, 600+ swipes, 58 checklists). | [Live](https://app.deekshak.site) · [Case](https://deekshak.site/#flagship) |
+| **[agency-os](https://github.com/Deekshak11/agency-os)** | Antigravity outbound factory — Modal runners, Google Workspace clone pattern, quality gates, agent SOPs. | [Portfolio](https://deekshak.site) |
+| **[show-rate-guardian](https://github.com/Deekshak11/show-rate-guardian)** | Agentic no-show reduction: risk → channel/timing → log. Maps AI to **show rate / protected revenue**. | Architecture explained (runtime retired) |
+| **[signal-os](https://github.com/Deekshak11/signal-os)** | Always-on agentic infrastructure: Mission Control, memory, DR backups. | Public architecture docs |
+| **[automation-systems](https://github.com/Deekshak11/automation-systems)** | Four production-style n8n systems: BDR/GTM, email+RAG, HubSpot enrich, lead research. | [Canvases](https://deekshak.site/#work) |
+| **[deekshak-portfolio](https://github.com/Deekshak11/deekshak-portfolio)** | Source for deekshak.site | [Site](https://deekshak.site) |
+
+---
+
+## System pattern I keep reusing
 
 ```text
 Vague ops / GTM problem
-        ↓
-  Diagnose → plan / policy
-        ↓
-  Agents + automations + human gates
-        ↓
-  Measurable outcome (show rate, assets shipped, pipeline)
+        │
+        ▼
+  Diagnose (data + frameworks, not vibes)
+        │
+        ▼
+  Plan / policy  ── human gate when side effects matter
+        │
+        ▼
+  Agents + automations + tools
+        │
+        ▼
+  Artifacts / messages / assets
+        │
+        ▼
+  Metric the business already tracks
+  (show rate, pipeline quality, time-to-artifact)
 ```
-
-### Flagship
-
-| Project | What it is |
-|---------|------------|
-| **[Business OS](https://github.com/Deekshak11/business-os)** | Multi-agent product: RAG strategist → plan lock → copy/build specialists → paste-ready outputs. **[Live demo](https://app.deekshak.site)** |
-| **[Agency OS](https://github.com/Deekshak11/agency-os)** | Antigravity outbound factory — Modal + Google Workspace, quality-first lead magnets at batch scale |
-| **[Show-Rate Guardian](https://github.com/Deekshak11/show-rate-guardian)** | Agentic no-show reduction — risk score, channel/timing, stack adapters |
-| **[Signal OS](https://github.com/Deekshak11/signal-os)** | Agentic infrastructure architecture (Mission Control, memory, DR) |
-| **[Automation systems](https://github.com/Deekshak11/automation-systems)** | Multi-step BDR, email intelligence, CRM enrich, research → outreach graphs |
 
 ---
 
-## Stack I reach for
+## Knowledge depth (Business OS)
 
-`Python` · `FastAPI` · `React` · `Modal` · `RAG / Chroma` · `multi-agent orchestration` · `n8n` · `Google Workspace APIs` · `Vercel` · event-driven automations
+Most “RAG demos” index a PDF. Flagship retrieval is built for **density**:
 
-Tool-agnostic: pick what closes the loop.
+**Strategist corpus** — Hormozi growth systems  
+- 3 core books + **12** implementation playbooks  
+- Offers, leads, money models, growth systems  
+
+**Copy specialist corpus** — Copy OS  
+- **14** vault documents · **112** named frameworks  
+- **32** structures/templates · **58** checklists  
+- **600+** swipe/example files · **40+** authors/sources  
+
+Full public narrative: [deekshak.site behind the scenes](https://deekshak.site/#flagship).  
+Corpus **text** stays out of public git (rights hygiene). **Architecture and product** are public.
+
+---
+
+## Stack
+
+`Python` · `FastAPI` · `React` · `TypeScript` · `Modal` · `RAG / Chroma` · multi-agent orchestration · human-in-the-loop plan locks · `n8n` · Google Workspace APIs · `Vercel` · retries / dead-letters
+
+Tool-agnostic: pick what closes the loop (Grok Build, Hermes, Codex, Antigravity, peers).
+
+---
+
+## Credentials (secondary to shipped systems)
+
+- AI Fluency: Framework & Foundations — **Anthropic**  
+- AI Fluency for Small Businesses — **Anthropic · PayPal**  
+- Develop marketing skills with AI agents — **Microsoft Learn**  
+
+I keep course volume light on purpose. Market feedback comes from **building, shipping, iterating**.
 
 ---
 
 ## How I work
 
 1. **Problem first** — metric the business already tracks  
-2. **Cheapest proof** that could work in production conditions  
+2. **Cheapest proof** under production conditions  
 3. **Harden** — approval gates, retries, logs (silent failures are bugs)  
 4. **Ship + measure**
 
 ---
 
-## Links
+## Contact
 
 - Portfolio: [deekshak.site](https://deekshak.site)  
 - Business OS: [app.deekshak.site](https://app.deekshak.site)  
 - LinkedIn: [linkedin.com/in/deekshak-dk](https://www.linkedin.com/in/deekshak-dk/)  
 - Email: deekshakdk11@gmail.com  
 
-Public repos are **portfolio snapshots** (no API keys / client PII). Full operational backups stay private.
+Public repos = **portfolio snapshots**. Full operational backups with secrets stay private.
 
 ---
 
