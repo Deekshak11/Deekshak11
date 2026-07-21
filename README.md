@@ -8,7 +8,7 @@ I ship systems that turn messy business requests into reliable loops: strategist
 |---|---|
 | **Portfolio (proof)** | [deekshak.site](https://deekshak.site) |
 | **Live product** | [app.deekshak.site](https://app.deekshak.site) — Business OS |
-| **Walkthrough** | [deekshak.site/#flagship](https://deekshak.site/#flagship) |
+| **Walkthrough** | [youtu.be/VIuVrRgLn9c](https://youtu.be/VIuVrRgLn9c) |
 | **Location** | Bengaluru, India · open to **remote** |
 | **Target roles** | AI implementation · agent orchestration · automation engineering |
 
@@ -31,7 +31,7 @@ I ship systems that turn messy business requests into reliable loops: strategist
 
 | Repo | What you will see | Proof |
 |------|-------------------|--------|
-| **[business-os](https://github.com/Deekshak11/business-os)** | Multi-agent product: RAG strategist → **plan lock** → copy/build specialists. Dual high-density vaults (Hormozi systems + Copy OS: 112 frameworks, 600+ swipes, 58 checklists). | [Live](https://app.deekshak.site) · [Case](https://deekshak.site/#flagship) |
+| **[business-os](https://github.com/Deekshak11/business-os)** | Multi-agent product: RAG strategist → **plan lock** → copy/build specialists. Dual high-density vaults (Hormozi systems + Copy OS: 112 frameworks, 600+ swipes, 58 checklists). | [Live](https://app.deekshak.site) · [Demo](https://youtu.be/VIuVrRgLn9c) · [Site](https://deekshak.site) |
 | **[agency-os](https://github.com/Deekshak11/agency-os)** | Antigravity outbound factory — Modal runners, Google Workspace clone pattern, quality gates, agent SOPs. | [Portfolio](https://deekshak.site) |
 | **[show-rate-guardian](https://github.com/Deekshak11/show-rate-guardian)** | Agentic no-show reduction: risk → channel/timing → log. Maps AI to **show rate / protected revenue**. | Architecture explained (runtime retired) |
 | **[signal-os](https://github.com/Deekshak11/signal-os)** | Always-on agentic infrastructure: Mission Control, memory, DR backups. | Public architecture docs |
@@ -77,7 +77,7 @@ Most “RAG demos” index a PDF. Flagship retrieval is built for **density**:
 - **32** structures/templates · **58** checklists  
 - **600+** swipe/example files · **40+** authors/sources  
 
-Full public narrative: [deekshak.site behind the scenes](https://deekshak.site/#flagship).  
+Demo: [youtu.be/VIuVrRgLn9c](https://youtu.be/VIuVrRgLn9c) · Portfolio: [deekshak.site](https://deekshak.site)  
 **Full RAG vaults are public** under [business-os/knowledge](https://github.com/Deekshak11/business-os/tree/main/knowledge) (Hormozi + Copy OS). Architecture + live product + vaults = complete proof.
 
 ---
